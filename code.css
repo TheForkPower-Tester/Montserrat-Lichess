@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.site-title > a {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.rclock-bottom > .time {
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+
+.rclock-top > .time {
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    
+.tview2 {
+	font-family: 'Montserrat', sans-serif;
+}
+    
+.pgn {
+	font-family: 'Montserrat', sans-serif;
+}
+    
+.discussion > span {
+	font-family: 'Montserrat', sans-serif;
+}
+    
+.config_hook {
+	font-family: 'Montserrat', sans-serif;
+}
