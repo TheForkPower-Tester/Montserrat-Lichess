@@ -1,9 +1,18 @@
+/* ==UserStyle==
+@name         Montserrat Lichess
+@version      1.1
+@author       TheForkPower
+@namespace    USO Archive
+@description  Just a simple yet aesthetic way to improve lichess 
+==/UserStyle== */
+
+@-moz-document url-prefix("https://lichess.org") {
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
 
 body {
   font-family: 'Montserrat', sans-serif;
-}
+}}
 
 .site-title > a {
 	font-family: 'Montserrat', sans-serif;
@@ -17,6 +26,7 @@ body {
 .rclock-top > .time {
 	font-family: 'Montserrat', sans-serif;
     font-weight: 100;
+}
     
 .tview2 {
 	font-family: 'Montserrat', sans-serif;
